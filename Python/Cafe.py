@@ -45,11 +45,3 @@ if opt == 'Y':
             print("Oder is Invalid")
 
     Bill()
-        
-
-
-   
-
-
-
-
